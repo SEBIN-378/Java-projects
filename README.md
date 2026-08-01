@@ -59,4 +59,149 @@ Salary : 60000.0
 
 ## Author
 
-Created by **Seeget Dusk**.
+Created by **Sebin Raju**.
+
+
+
+
+# Circle Area and Circumference Calculator (Java)
+
+A simple Java console application that calculates the **area** and **circumference** of a circle based on the radius entered by the user. This project demonstrates the use of classes, constructors, objects, the `Scanner` class, and mathematical calculations using the `Math` library.
+
+## Features
+
+- Accepts the radius of a circle from the user.
+- Calculates the area of the circle.
+- Calculates the circumference of the circle.
+- Displays the calculated values.
+
+## Technologies Used
+
+- Java
+- Scanner Class
+- Math.PI
+- Object-Oriented Programming (OOP)
+
+## Formula Used
+
+- **Area** = π × r²
+- **Circumference** = 2 × π × r
+
+## Sample Output
+
+```
+Enter Radius: 5
+
+Area = 78.53981633974483
+Circumference = 31.41592653589793
+```
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in a Java IDE such as Eclipse, IntelliJ IDEA, or VS Code.
+3. Compile and run `Circle.java`.
+4. Enter the radius when prompted.
+5. The program will display the area and circumference of the circle.
+
+## Project Structure
+
+```
+Circle-Area-Circumference/
+│── README.md
+└── Module1/
+    └── Circle.java
+```
+
+## Learning Outcomes
+
+- Understanding Java classes and objects.
+- Using constructors to initialize object data.
+- Reading user input with the `Scanner` class.
+- Performing mathematical calculations using `Math.PI`.
+- Displaying formatted output in the console.
+
+## Author
+
+Created by **Sebin Raju**.
+
+
+
+# Book Details Management System (Java)
+
+A simple Java console application that accepts information about two books from the user and displays their details. This project demonstrates the use of classes, constructors, objects, and user input using the `Scanner` class.
+
+## Features
+
+- Accepts details of two books.
+- Stores book information using objects.
+- Displays the title, author, and price of each book.
+- Demonstrates basic Object-Oriented Programming (OOP) concepts in Java.
+
+## Technologies Used
+
+- Java
+- Scanner Class
+- Object-Oriented Programming (OOP)
+
+## Program Details
+
+The program accepts the following details for each book:
+
+- Title
+- Author
+- Price
+
+It then creates two `Book` objects and displays their information.
+
+## Sample Output
+
+```text
+Enter Book 1 Details
+Title: The Alchemist
+Author: Paulo Coelho
+Price: 399
+
+Enter Book 2 Details
+Title: Atomic Habits
+Author: James Clear
+Price: 550
+
+Book Details
+Title : The Alchemist
+Author : Paulo Coelho
+Price : 399.0
+
+Title : Atomic Habits
+Author : James Clear
+Price : 550.0
+```
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in a Java IDE such as Eclipse, IntelliJ IDEA, or VS Code.
+3. Compile and run `Book.java`.
+4. Enter the details of the two books when prompted.
+5. The program will display the information entered.
+
+## Project Structure
+
+```text
+Book-Details-Management/
+│── README.md
+└── Module1/
+    └── Book.java
+```
+
+## Learning Outcomes
+
+- Understanding Java classes and objects.
+- Using constructors to initialize object data.
+- Reading user input with the `Scanner` class.
+- Creating multiple objects from the same class.
+- Displaying object information using methods.
+
+## Author
+
+Created by **Sebin Raju**.
