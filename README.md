@@ -280,3 +280,83 @@ Student-Marks-Calculator/
 ## Author
 
 Created by **Sebin Raju**.
+
+
+
+# Bank Account Management System (Java)
+
+A simple Java console application that simulates basic bank account operations. The program accepts account details from the user, allows a deposit transaction, updates the account balance, and displays the updated account information. This project demonstrates the use of classes, constructors, objects, methods, and user input using the `Scanner` class.
+
+## Features
+
+- Accepts bank account details from the user.
+- Stores account information using objects.
+- Performs a deposit transaction.
+- Updates the account balance.
+- Displays the updated account details.
+- Demonstrates basic Object-Oriented Programming (OOP) concepts in Java.
+
+## Technologies Used
+
+- Java
+- Scanner Class
+- Object-Oriented Programming (OOP)
+
+## Program Details
+
+The program accepts the following details:
+
+- Account Number
+- Account Holder Name
+- Initial Balance
+- Deposit Amount
+
+It then:
+
+1. Creates a `BankAccount` object.
+2. Deposits the specified amount into the account.
+3. Displays the updated account details.
+
+## Sample Output
+
+```text
+Enter Account Number: 123456789
+Enter Account Holder Name: John Doe
+Enter Initial Balance: 5000
+Enter Deposit Amount: 1500
+
+Updated Account Details
+Account Number : 123456789
+Account Holder : John Doe
+Balance : 6500.0
+```
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in a Java IDE such as Eclipse, IntelliJ IDEA, or VS Code.
+3. Compile and run `BankAccount.java`.
+4. Enter the account details and deposit amount when prompted.
+5. The program will display the updated account information.
+
+## Project Structure
+
+```text
+Bank-Account-Management/
+│── README.md
+└── Module1/
+    └── BankAccount.java
+```
+
+## Learning Outcomes
+
+- Understanding Java classes and objects.
+- Using constructors to initialize object data.
+- Creating methods to perform operations on objects.
+- Reading user input using the `Scanner` class.
+- Updating object attributes through methods.
+- Performing basic banking operations in Java.
+
+## Author
+
+Created by **Sebin Raju**.
