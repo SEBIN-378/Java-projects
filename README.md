@@ -205,3 +205,78 @@ Book-Details-Management/
 ## Author
 
 Created by **Sebin Raju**.
+
+
+
+
+# Student Marks Calculator (Java)
+
+A simple Java console application that accepts the marks of a student in three subjects, calculates the **total marks** and **average**, and displays the results. This project demonstrates the use of classes, constructors, methods, and user input using the `Scanner` class.
+
+## Features
+
+- Accepts marks for three subjects.
+- Calculates the total marks.
+- Calculates the average marks.
+- Displays the total and average.
+- Demonstrates basic Object-Oriented Programming (OOP) concepts in Java.
+
+## Technologies Used
+
+- Java
+- Scanner Class
+- Object-Oriented Programming (OOP)
+
+## Program Details
+
+The program accepts the following inputs:
+
+- Mark 1
+- Mark 2
+- Mark 3
+
+It then creates a `Marks` object and calculates:
+
+- Total Marks
+- Average Marks
+
+## Sample Output
+
+```text
+Enter Marks of the Student
+Enter Mark 1: 85
+Enter Mark 2: 90
+Enter Mark 3: 78
+
+Total = 253
+Average = 84.33333333333333
+```
+
+## How to Run
+
+1. Clone this repository.
+2. Open the project in a Java IDE such as Eclipse, IntelliJ IDEA, or VS Code.
+3. Compile and run `Marks.java`.
+4. Enter the marks for the three subjects when prompted.
+5. The program will display the total and average marks.
+
+## Project Structure
+
+```text
+Student-Marks-Calculator/
+│── README.md
+└── Module1/
+    └── Marks.java
+```
+
+## Learning Outcomes
+
+- Understanding Java classes and objects.
+- Using constructors to initialize object data.
+- Creating methods that return values.
+- Reading user input using the `Scanner` class.
+- Performing arithmetic calculations in Java.
+
+## Author
+
+Created by **Sebin Raju**.
